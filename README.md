@@ -1,6 +1,7 @@
 **Education**
 - Bachelor’s Degree in Management
 - M.S. in Mathematics
+  
 Published 15+ research papers in peer-reviewed journals (including Web of Science, VAK, and Russian science journals) on topics such as:
 1. Artificial intelligence and neural network design
 2. Human-computer interaction and UX research
@@ -41,6 +42,10 @@ Next-Generation Sequencing (NGS) Analysis, RNA-Seq, Genomics, Phylogenetics, Mac
 --------------------------------------
 
 *Open to collaboration on open-source bioinformatics projects and research.*
+
+Suleymanov Deni Magomedovich, 03 august 2001
+
+deni.suleymanov@duneflow.ru
 
 *GMT +3:00 Moscow*
 
