@@ -47,6 +47,6 @@ Suleymanov Deni Magomedovich, 03 august 2001
 
 deni.suleymanov@duneflow.ru
 
-*GMT +3:00 Moscow*
+GMT +3:00 Moscow
 
-*Chechen Republic, Grozny*
+Chechen Republic, Grozny
