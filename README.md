@@ -11,7 +11,9 @@ Published 15+ research papers in peer-reviewed journals (including Web of Scienc
 2. High-conversion landing pages and corporate websites
 3. SEO optimization and organic traffic growth
 4. UX/UI design and no-code development
+   
    Webflow profile: https://webflow.com/@duneflow
+   
    Studio Webssite: https://www.duneflow.ru
    
 **Strong in:**
@@ -39,5 +41,7 @@ Next-Generation Sequencing (NGS) Analysis, RNA-Seq, Genomics, Phylogenetics, Mac
 --------------------------------------
 
 *Open to collaboration on open-source bioinformatics projects and research.*
+
 *GMT +3:00 Moscow*
+
 *Chechen Republic, Grozny*
