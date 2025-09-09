@@ -1,7 +1,13 @@
-**Education**
+**Education & Courses**
 - Bachelor’s Degree in Management
 - M.S. in Mathematics
-  
+
+**Certificates & awards**
+1. Yandex Metric (2024)
+2. Yandex Direct (2024)
+3. Webflow (layouts Level 1, Layouts Level 2, CMS, Partner)
+
+**Scientific works** 
 Published 15+ research papers in peer-reviewed journals (including Web of Science, VAK, and Russian science journals) on topics such as:
 1. Artificial intelligence and neural network design
 2. Human-computer interaction and UX research
@@ -25,6 +31,7 @@ HTML/CSS, Python, CMS Webflow (certified in 2025)
 ------------------------------------
 
 Transition to Computational Biology
+_______________
 Now applying my analytical and technical skills to bioinformatics, focusing on:
 NGS data analysis (RNA-Seq, genomics)
 Python for biological data processing (Pandas, Biopython, Scikit-learn)
