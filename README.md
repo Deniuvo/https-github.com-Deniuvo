@@ -26,7 +26,7 @@ Published 15+ research papers in peer-reviewed journals (including Web of Scienc
 
 **Soft & Skills in web-design and UX/UI**
 
-HTML/CSS, Python, CMS Webflow (certified in 2025)
+Can edit: HTML/CSS, Python. CMS Webflow (certified in 2025)
 , CMS Umbraco, CMS WordPress, Figma, Color theory, Technical SEO and performance analytics, Yandex Direct (certified in 2024)
 , Yandex Metric (certified in 2024), Project management
 
